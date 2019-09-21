@@ -1,0 +1,8 @@
+[submodule ".panglue"]
+	path = .panglue
+	url = git@github.com:panglue/panglue
+	branch = master
+[submodule ".panglue-dev"]
+	path = .panglue-dev
+	url = git@bitbucket.org/panglue/panglue
+	branch = dev
